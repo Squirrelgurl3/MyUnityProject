@@ -1,0 +1,1221 @@
+fileFormatVersion: 2
+guid: aadb683c7a525794aa07c73bde8c79f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 886591476150321201
+    second: windanimaiton (1)_0
+  - first:
+      213: -2460034915876116520
+    second: windanimaiton (1)_1
+  - first:
+      213: -766068762350359453
+    second: windanimaiton (1)_2
+  - first:
+      213: 6623535218754285437
+    second: windanimaiton (1)_3
+  - first:
+      213: 223189311108355673
+    second: windanimaiton (1)_4
+  - first:
+      213: -56781696927104581
+    second: windanimaiton (1)_5
+  - first:
+      213: -3919810707834685937
+    second: windanimaiton (1)_6
+  - first:
+      213: 5254653917063993507
+    second: windanimaiton (1)_7
+  - first:
+      213: 5691312679552800539
+    second: windanimaiton (1)_8
+  - first:
+      213: -5563124331980341977
+    second: windanimaiton (1)_9
+  - first:
+      213: 8212404065621004875
+    second: windanimaiton (1)_10
+  - first:
+      213: -1372154467584951871
+    second: windanimaiton (1)_11
+  - first:
+      213: 5912588730011680950
+    second: windanimaiton (1)_12
+  - first:
+      213: -1897117811916171747
+    second: windanimaiton (1)_13
+  - first:
+      213: 7247798947607662222
+    second: windanimaiton (1)_14
+  - first:
+      213: -6400969773260492347
+    second: windanimaiton (1)_15
+  - first:
+      213: 6119007200952050904
+    second: windanimaiton (1)_16
+  - first:
+      213: 7217229050695983376
+    second: windanimaiton (1)_17
+  - first:
+      213: -7756666585380436458
+    second: windanimaiton (1)_18
+  - first:
+      213: 4994338849836875695
+    second: windanimaiton (1)_19
+  - first:
+      213: 7404269861109706764
+    second: windanimaiton (1)_20
+  - first:
+      213: 4160679807116457817
+    second: windanimaiton (1)_21
+  - first:
+      213: 4710232741779684040
+    second: windanimaiton (1)_22
+  - first:
+      213: 2777710818077619460
+    second: windanimaiton (1)_23
+  - first:
+      213: -383836311463257405
+    second: windanimaiton (1)_24
+  - first:
+      213: 8079886062652780436
+    second: windanimaiton (1)_25
+  - first:
+      213: 2745234327730349282
+    second: windanimaiton (1)_26
+  - first:
+      213: -527340318780459259
+    second: windanimaiton (1)_27
+  - first:
+      213: 741331912949526534
+    second: windanimaiton (1)_28
+  - first:
+      213: 4000729485630607121
+    second: windanimaiton (1)_29
+  - first:
+      213: 6690750811391845189
+    second: windanimaiton (1)_30
+  - first:
+      213: 5936639390587835603
+    second: windanimaiton (1)_31
+  - first:
+      213: 6434920410989665993
+    second: windanimaiton (1)_32
+  - first:
+      213: 7719553911858014448
+    second: windanimaiton (1)_33
+  - first:
+      213: -2186023615079374097
+    second: windanimaiton (1)_34
+  - first:
+      213: 3263647889276035537
+    second: windanimaiton (1)_35
+  - first:
+      213: -3021364954469657117
+    second: windanimaiton (1)_36
+  - first:
+      213: -7591028232741164807
+    second: windanimaiton (1)_37
+  - first:
+      213: 5205173647204391792
+    second: windanimaiton (1)_38
+  - first:
+      213: 5017384310376998860
+    second: windanimaiton (1)_39
+  - first:
+      213: 4840229033742420785
+    second: windanimaiton (1)_40
+  - first:
+      213: -5232788376628458358
+    second: windanimaiton (1)_41
+  - first:
+      213: 9190118014375295226
+    second: windanimaiton (1)_42
+  - first:
+      213: 3495907875154951260
+    second: windanimaiton (1)_43
+  - first:
+      213: 4667754804865728456
+    second: windanimaiton (1)_44
+  - first:
+      213: 6329403571457443279
+    second: windanimaiton (1)_45
+  - first:
+      213: -519595936566436304
+    second: windanimaiton (1)_46
+  - first:
+      213: 767194016290298794
+    second: windanimaiton (1)_47
+  - first:
+      213: 136533826027909806
+    second: windanimaiton (1)_48
+  - first:
+      213: 5653968179229055069
+    second: windanimaiton (1)_49
+  - first:
+      213: -837518026773194660
+    second: windanimaiton (1)_50
+  - first:
+      213: -180349870242114962
+    second: windanimaiton (1)_51
+  - first:
+      213: -413301073228131462
+    second: windanimaiton (1)_52
+  - first:
+      213: -3104924580962701987
+    second: windanimaiton (1)_53
+  - first:
+      213: 6027476529662025942
+    second: windanimaiton (1)_54
+  - first:
+      213: 2299283098553974047
+    second: windanimaiton (1)_55
+  - first:
+      213: 6039006433763418471
+    second: windanimaiton (1)_56
+  - first:
+      213: 6515201318939535666
+    second: windanimaiton (1)_57
+  - first:
+      213: -1498740438102608866
+    second: windanimaiton (1)_58
+  - first:
+      213: 3100796309562092771
+    second: windanimaiton (1)_59
+  - first:
+      213: -7126412445540300801
+    second: windanimaiton (1)_60
+  - first:
+      213: -2435223627512131627
+    second: windanimaiton (1)_61
+  - first:
+      213: -2033604574810801398
+    second: windanimaiton (1)_62
+  - first:
+      213: -8057802488018759910
+    second: windanimaiton (1)_63
+  - first:
+      213: 6304943767523244328
+    second: windanimaiton (1)_64
+  - first:
+      213: 5584812428900233459
+    second: windanimaiton (1)_65
+  - first:
+      213: 1381574524675087669
+    second: windanimaiton (1)_66
+  - first:
+      213: 3630447751283939919
+    second: windanimaiton (1)_67
+  - first:
+      213: -4341496792617978764
+    second: windanimaiton (1)_68
+  - first:
+      213: -5725823194122010513
+    second: windanimaiton (1)_69
+  - first:
+      213: -8185261046139089720
+    second: windanimaiton (1)_70
+  - first:
+      213: -8672204618715517606
+    second: windanimaiton (1)_71
+  - first:
+      213: 3586937934373464712
+    second: windanimaiton (1)_72
+  - first:
+      213: -1659184119543397693
+    second: windanimaiton (1)_73
+  - first:
+      213: -7672884986457778579
+    second: windanimaiton (1)_74
+  - first:
+      213: -304021873920214991
+    second: windanimaiton (1)_75
+  - first:
+      213: 2816486458308555456
+    second: windanimaiton (1)_76
+  - first:
+      213: -4896872414747743938
+    second: windanimaiton (1)_77
+  - first:
+      213: -7032427695931081746
+    second: windanimaiton (1)_78
+  - first:
+      213: -8069803281676624071
+    second: windanimaiton (1)_79
+  - first:
+      213: 6050983828780832104
+    second: windanimaiton (1)_80
+  - first:
+      213: 9074501201996724535
+    second: windanimaiton (1)_81
+  - first:
+      213: 1612232374831702841
+    second: windanimaiton (1)_82
+  - first:
+      213: 8170946903803040021
+    second: windanimaiton (1)_83
+  - first:
+      213: 7503816480257865076
+    second: windanimaiton (1)_84
+  - first:
+      213: 7393788996457823774
+    second: windanimaiton (1)_85
+  - first:
+      213: -241810776153111324
+    second: windanimaiton (1)_86
+  - first:
+      213: 5062301915507140269
+    second: windanimaiton (1)_87
+  - first:
+      213: 6879790076611882968
+    second: windanimaiton (1)_88
+  - first:
+      213: 8222421991495522163
+    second: windanimaiton (1)_89
+  - first:
+      213: 6981421525929060914
+    second: windanimaiton (1)_90
+  - first:
+      213: -8549221671704337867
+    second: windanimaiton (1)_91
+  - first:
+      213: -8418845829377698166
+    second: windanimaiton (1)_92
+  - first:
+      213: -5615823015531717789
+    second: windanimaiton (1)_93
+  - first:
+      213: -7213206378428567000
+    second: windanimaiton (1)_94
+  - first:
+      213: 3445596222302601495
+    second: windanimaiton (1)_95
+  - first:
+      213: 8758365575301376501
+    second: windanimaiton (1)_96
+  - first:
+      213: -407783791231968533
+    second: windanimaiton (1)_97
+  - first:
+      213: -6725931192078730571
+    second: windanimaiton (1)_98
+  - first:
+      213: -573510935419185576
+    second: windanimaiton (1)_99
+  - first:
+      213: 2904462401248482778
+    second: windanimaiton (1)_100
+  - first:
+      213: 8201643055760566141
+    second: windanimaiton (1)_101
+  - first:
+      213: -6934961160548441056
+    second: windanimaiton (1)_102
+  - first:
+      213: 8115894568771091988
+    second: windanimaiton (1)_103
+  - first:
+      213: -6144913930012651378
+    second: windanimaiton (1)_104
+  - first:
+      213: 8851944331024154380
+    second: windanimaiton (1)_105
+  - first:
+      213: -2621787727101718924
+    second: windanimaiton (1)_106
+  - first:
+      213: -3298846710320064564
+    second: windanimaiton (1)_107
+  - first:
+      213: -8749605654539448475
+    second: windanimaiton (1)_108
+  - first:
+      213: -8513215794237420126
+    second: windanimaiton (1)_109
+  - first:
+      213: 849659580591630990
+    second: windanimaiton (1)_110
+  - first:
+      213: -6373987491966648935
+    second: windanimaiton (1)_111
+  - first:
+      213: -347062048889478176
+    second: windanimaiton (1)_112
+  - first:
+      213: -896242640650196337
+    second: windanimaiton (1)_113
+  - first:
+      213: -664422545212723414
+    second: windanimaiton (1)_114
+  - first:
+      213: 7844593792230509070
+    second: windanimaiton (1)_115
+  - first:
+      213: -4823107422926009802
+    second: windanimaiton (1)_116
+  - first:
+      213: -5876066485159186461
+    second: windanimaiton (1)_117
+  - first:
+      213: -5767374940464063685
+    second: windanimaiton (1)_118
+  - first:
+      213: -3440742962400706051
+    second: windanimaiton (1)_119
+  - first:
+      213: 2655360974669231994
+    second: windanimaiton (1)_120
+  - first:
+      213: 2741261816980499613
+    second: windanimaiton (1)_121
+  - first:
+      213: 1220725861909168062
+    second: windanimaiton (1)_122
+  - first:
+      213: 167947282715338206
+    second: windanimaiton (1)_123
+  - first:
+      213: 8738538037066272500
+    second: windanimaiton (1)_124
+  - first:
+      213: -761043933111968138
+    second: windanimaiton (1)_125
+  - first:
+      213: 6629918680075990938
+    second: windanimaiton (1)_126
+  - first:
+      213: -7140393880391863183
+    second: windanimaiton (1)_127
+  - first:
+      213: -7055488222249951150
+    second: windanimaiton (1)_128
+  - first:
+      213: 2579146653062860010
+    second: windanimaiton (1)_129
+  - first:
+      213: -824591259371218777
+    second: windanimaiton (1)_130
+  - first:
+      213: -4497241332064412386
+    second: windanimaiton (1)_131
+  - first:
+      213: -6917122673730708718
+    second: windanimaiton (1)_132
+  - first:
+      213: -2728515457975906322
+    second: windanimaiton (1)_133
+  - first:
+      213: 3516092945127025785
+    second: windanimaiton (1)_134
+  - first:
+      213: 9221193345955027989
+    second: windanimaiton (1)_135
+  - first:
+      213: 4427141506187077249
+    second: windanimaiton (1)_136
+  - first:
+      213: 2250609429898316003
+    second: windanimaiton (1)_137
+  - first:
+      213: 4893625974691113947
+    second: windanimaiton (1)_138
+  - first:
+      213: -5914018423359650959
+    second: windanimaiton (1)_139
+  - first:
+      213: 4749699133720525501
+    second: windanimaiton (1)_140
+  - first:
+      213: -6155731651086655136
+    second: windanimaiton (1)_141
+  - first:
+      213: 8787427963767299355
+    second: windanimaiton (1)_142
+  - first:
+      213: 8336582253102966587
+    second: windanimaiton (1)_143
+  - first:
+      213: 2517044766752032653
+    second: windanimaiton (1)_144
+  - first:
+      213: 8415901098944843322
+    second: windanimaiton (1)_145
+  - first:
+      213: -789193643117228497
+    second: windanimaiton (1)_146
+  - first:
+      213: -6970403268811221117
+    second: windanimaiton (1)_147
+  - first:
+      213: 7580260275308369266
+    second: windanimaiton (1)_148
+  - first:
+      213: -4752389075091066254
+    second: windanimaiton (1)_149
+  - first:
+      213: -6486543014731262285
+    second: windanimaiton (1)_150
+  - first:
+      213: 5718052500435132312
+    second: windanimaiton (1)_151
+  - first:
+      213: 8767378388236487173
+    second: windanimaiton (1)_152
+  - first:
+      213: 3721029423680323488
+    second: windanimaiton (1)_153
+  - first:
+      213: -3249078015868059616
+    second: windanimaiton (1)_154
+  - first:
+      213: 3494994038096875709
+    second: windanimaiton (1)_155
+  - first:
+      213: -1331627998461832032
+    second: windanimaiton (1)_156
+  - first:
+      213: 3035581798623238642
+    second: windanimaiton (1)_157
+  - first:
+      213: 4794802456884957520
+    second: windanimaiton (1)_158
+  - first:
+      213: 4870657861044658804
+    second: windanimaiton (1)_159
+  - first:
+      213: -5370553434768043678
+    second: windanimaiton (1)_160
+  - first:
+      213: -7425739257258864193
+    second: windanimaiton (1)_161
+  - first:
+      213: -8814129484303777446
+    second: windanimaiton (1)_162
+  - first:
+      213: -4071262107110730434
+    second: windanimaiton (1)_163
+  - first:
+      213: -161473235909660260
+    second: windanimaiton (1)_164
+  - first:
+      213: 5393185928563568759
+    second: windanimaiton (1)_165
+  - first:
+      213: -3934187164284514586
+    second: windanimaiton (1)_166
+  - first:
+      213: -1819208241308850758
+    second: windanimaiton (1)_167
+  - first:
+      213: 6209428517375324409
+    second: windanimaiton (1)_168
+  - first:
+      213: -1388690770905522783
+    second: windanimaiton (1)_169
+  - first:
+      213: 2981269242763105924
+    second: windanimaiton (1)_170
+  - first:
+      213: -6569164845847763933
+    second: windanimaiton (1)_171
+  - first:
+      213: -5867995891599344757
+    second: windanimaiton (1)_172
+  - first:
+      213: 1423923621960171617
+    second: windanimaiton (1)_173
+  - first:
+      213: -1138353434106572997
+    second: windanimaiton (1)_174
+  - first:
+      213: 5046991571300174252
+    second: windanimaiton (1)_175
+  - first:
+      213: 2682406355180010570
+    second: windanimaiton (1)_176
+  - first:
+      213: -6030470851317939231
+    second: windanimaiton (1)_177
+  - first:
+      213: -4088172810637834173
+    second: windanimaiton (1)_178
+  - first:
+      213: 7011805242906443585
+    second: windanimaiton (1)_179
+  - first:
+      213: -485497956349025707
+    second: windanimaiton (1)_180
+  - first:
+      213: 93498158457730941
+    second: windanimaiton (1)_181
+  - first:
+      213: 7497369612811826711
+    second: windanimaiton (1)_182
+  - first:
+      213: 3311923199938104285
+    second: windanimaiton (1)_183
+  - first:
+      213: 7888589147710117581
+    second: windanimaiton (1)_184
+  - first:
+      213: -6494661309535218125
+    second: windanimaiton (1)_185
+  - first:
+      213: 689631139214581313
+    second: windanimaiton (1)_186
+  - first:
+      213: 1435657525013559508
+    second: windanimaiton (1)_187
+  - first:
+      213: -106073205090756214
+    second: windanimaiton (1)_188
+  - first:
+      213: 2494677016600208794
+    second: windanimaiton (1)_189
+  - first:
+      213: 8996848263318430976
+    second: windanimaiton (1)_190
+  - first:
+      213: 3329254795218347509
+    second: windanimaiton (1)_191
+  - first:
+      213: 6851111944866308333
+    second: windanimaiton (1)_192
+  - first:
+      213: 9198579228997481001
+    second: windanimaiton (1)_193
+  - first:
+      213: 756138784351944282
+    second: windanimaiton (1)_194
+  - first:
+      213: -4974658246553407472
+    second: windanimaiton (1)_195
+  - first:
+      213: 3344281014516963162
+    second: windanimaiton (1)_196
+  - first:
+      213: 3135512500711090497
+    second: windanimaiton (1)_197
+  - first:
+      213: -1737587471082924008
+    second: windanimaiton (1)_198
+  - first:
+      213: -5418576800143898597
+    second: windanimaiton (1)_199
+  - first:
+      213: -3536359281409567593
+    second: windanimaiton (1)_200
+  - first:
+      213: 8393622273194478438
+    second: windanimaiton (1)_201
+  - first:
+      213: -7991348078598388809
+    second: windanimaiton (1)_202
+  - first:
+      213: 1893722104308580523
+    second: windanimaiton (1)_203
+  - first:
+      213: -8415029958591948299
+    second: windanimaiton (1)_204
+  - first:
+      213: -8351206487504570810
+    second: windanimaiton (1)_205
+  - first:
+      213: -6788210307411517485
+    second: windanimaiton (1)_206
+  - first:
+      213: -2610385490634608852
+    second: windanimaiton (1)_207
+  - first:
+      213: -8427769267420760297
+    second: windanimaiton (1)_208
+  - first:
+      213: 5757386825792972445
+    second: windanimaiton (1)_209
+  - first:
+      213: 5017484968885513295
+    second: windanimaiton (1)_210
+  - first:
+      213: -8031276246215209092
+    second: windanimaiton (1)_211
+  - first:
+      213: -22686618331672179
+    second: windanimaiton (1)_212
+  - first:
+      213: 5067177868666982366
+    second: windanimaiton (1)_213
+  - first:
+      213: 5422952655088848119
+    second: windanimaiton (1)_214
+  - first:
+      213: -8490310877100105239
+    second: windanimaiton (1)_215
+  - first:
+      213: 3409928614550047045
+    second: windanimaiton (1)_216
+  - first:
+      213: 7016067108726544521
+    second: windanimaiton (1)_217
+  - first:
+      213: 6247368593421132180
+    second: windanimaiton (1)_218
+  - first:
+      213: -2555610298307888113
+    second: windanimaiton (1)_219
+  - first:
+      213: -1108245643386445372
+    second: windanimaiton (1)_220
+  - first:
+      213: 8013729005598118111
+    second: windanimaiton (1)_221
+  - first:
+      213: -8391953889567317893
+    second: windanimaiton (1)_222
+  - first:
+      213: -6516873915645279171
+    second: windanimaiton (1)_223
+  - first:
+      213: 5479347984381684199
+    second: windanimaiton (1)_224
+  - first:
+      213: 3087998937335271035
+    second: windanimaiton (1)_225
+  - first:
+      213: 99642525378577918
+    second: windanimaiton (1)_226
+  - first:
+      213: 8606754351283315665
+    second: windanimaiton (1)_227
+  - first:
+      213: -300657191305094311
+    second: windanimaiton (1)_228
+  - first:
+      213: -7768049768793014532
+    second: windanimaiton (1)_229
+  - first:
+      213: -7791507750299656465
+    second: windanimaiton (1)_230
+  - first:
+      213: 3776753617187666260
+    second: windanimaiton (1)_231
+  - first:
+      213: 2268782410138807265
+    second: windanimaiton (1)_232
+  - first:
+      213: 2098484086657328160
+    second: windanimaiton (1)_233
+  - first:
+      213: -294386693323251880
+    second: windanimaiton (1)_234
+  - first:
+      213: 7313654912245127351
+    second: windanimaiton (1)_235
+  - first:
+      213: 6493835231337505758
+    second: windanimaiton (1)_236
+  - first:
+      213: -1890119379028157596
+    second: windanimaiton (1)_237
+  - first:
+      213: -1598722880057361070
+    second: windanimaiton (1)_238
+  - first:
+      213: -374790239486597368
+    second: windanimaiton (1)_239
+  - first:
+      213: 3398068436523774206
+    second: windanimaiton (1)_240
+  - first:
+      213: -851271180582099021
+    second: windanimaiton (1)_241
+  - first:
+      213: 79952521067941495
+    second: windanimaiton (1)_242
+  - first:
+      213: 3922515220013260488
+    second: windanimaiton (1)_243
+  - first:
+      213: 3896466116150469559
+    second: windanimaiton (1)_244
+  - first:
+      213: 8352787334103264212
+    second: windanimaiton (1)_245
+  - first:
+      213: 4052452288856166899
+    second: windanimaiton (1)_246
+  - first:
+      213: -6301546227818570428
+    second: windanimaiton (1)_247
+  - first:
+      213: -2776300771004674161
+    second: windanimaiton (1)_248
+  - first:
+      213: -7424197924377798510
+    second: windanimaiton (1)_249
+  - first:
+      213: -4124487931512147788
+    second: windanimaiton (1)_250
+  - first:
+      213: -3208588416307404611
+    second: windanimaiton (1)_251
+  - first:
+      213: -1627050970321555945
+    second: windanimaiton (1)_252
+  - first:
+      213: 5996319606874422068
+    second: windanimaiton (1)_253
+  - first:
+      213: 374934623367322271
+    second: windanimaiton (1)_254
+  - first:
+      213: -2036203319460631788
+    second: windanimaiton (1)_255
+  - first:
+      213: 6577595369863122370
+    second: windanimaiton (1)_256
+  - first:
+      213: 2168129337840692678
+    second: windanimaiton (1)_257
+  - first:
+      213: -2242425659347790196
+    second: windanimaiton (1)_258
+  - first:
+      213: 6938234323632135619
+    second: windanimaiton (1)_259
+  - first:
+      213: 8701862482964314604
+    second: windanimaiton (1)_260
+  - first:
+      213: -2476502690354410690
+    second: windanimaiton (1)_261
+  - first:
+      213: -2533355783730758404
+    second: windanimaiton (1)_262
+  - first:
+      213: 534367858014636106
+    second: windanimaiton (1)_263
+  - first:
+      213: -4248186256537756557
+    second: windanimaiton (1)_264
+  - first:
+      213: 1680121009138552639
+    second: windanimaiton (1)_265
+  - first:
+      213: 6891395574161764169
+    second: windanimaiton (1)_266
+  - first:
+      213: -2429291534930579465
+    second: windanimaiton (1)_267
+  - first:
+      213: -2860323141004638955
+    second: windanimaiton (1)_268
+  - first:
+      213: -8266552759218239347
+    second: windanimaiton (1)_269
+  - first:
+      213: 3690590405332393161
+    second: windanimaiton (1)_270
+  - first:
+      213: -6873883539334302432
+    second: windanimaiton (1)_271
+  - first:
+      213: 7962867151870767964
+    second: windanimaiton (1)_272
+  - first:
+      213: 9129759078607840335
+    second: windanimaiton (1)_273
+  - first:
+      213: 4979270045480888997
+    second: windanimaiton (1)_274
+  - first:
+      213: -6575544303095475317
+    second: windanimaiton (1)_275
+  - first:
+      213: -3581995988488212677
+    second: windanimaiton (1)_276
+  - first:
+      213: 1993805009454466678
+    second: windanimaiton (1)_277
+  - first:
+      213: -7765178947824732525
+    second: windanimaiton (1)_278
+  - first:
+      213: 2362832136740233905
+    second: windanimaiton (1)_279
+  - first:
+      213: -1165134856864919823
+    second: windanimaiton (1)_280
+  - first:
+      213: 1006862322101019761
+    second: windanimaiton (1)_281
+  - first:
+      213: 6673572374063832139
+    second: windanimaiton (1)_282
+  - first:
+      213: 8450225284536203824
+    second: windanimaiton (1)_283
+  - first:
+      213: -9115647433784851472
+    second: windanimaiton (1)_284
+  - first:
+      213: -5061089599592274640
+    second: windanimaiton (1)_285
+  - first:
+      213: -8589572552118791420
+    second: windanimaiton (1)_286
+  - first:
+      213: 1011085053022506035
+    second: windanimaiton (1)_287
+  - first:
+      213: -6237549237383097807
+    second: windanimaiton (1)_288
+  - first:
+      213: 8993083395789069230
+    second: windanimaiton (1)_289
+  - first:
+      213: 6289691746731584549
+    second: windanimaiton (1)_290
+  - first:
+      213: 2956717180920574670
+    second: windanimaiton (1)_291
+  - first:
+      213: 4980830350574185787
+    second: windanimaiton (1)_292
+  - first:
+      213: 970672519344298476
+    second: windanimaiton (1)_293
+  - first:
+      213: 8288085959665202384
+    second: windanimaiton (1)_294
+  - first:
+      213: -2061366664699550319
+    second: windanimaiton (1)_295
+  - first:
+      213: -8927620289417576997
+    second: windanimaiton (1)_296
+  - first:
+      213: -4004805056971702878
+    second: windanimaiton (1)_297
+  - first:
+      213: -2530835578487764764
+    second: windanimaiton (1)_298
+  - first:
+      213: -9078596630194104526
+    second: windanimaiton (1)_299
+  - first:
+      213: -4210972678541991126
+    second: windanimaiton (1)_300
+  - first:
+      213: 4563875072910909497
+    second: windanimaiton (1)_301
+  - first:
+      213: -7938514705479131750
+    second: windanimaiton (1)_302
+  - first:
+      213: -8153988288008509397
+    second: windanimaiton (1)_303
+  - first:
+      213: -1352772445297796893
+    second: windanimaiton (1)_304
+  - first:
+      213: -6283875775408722006
+    second: windanimaiton (1)_305
+  - first:
+      213: 2227887186956756229
+    second: windanimaiton (1)_306
+  - first:
+      213: 6398869446159150156
+    second: windanimaiton (1)_307
+  - first:
+      213: -3557806712001876974
+    second: windanimaiton (1)_308
+  - first:
+      213: -3767020117304695604
+    second: windanimaiton (1)_309
+  - first:
+      213: 56460718339958595
+    second: windanimaiton (1)_310
+  - first:
+      213: 8020325335051814672
+    second: windanimaiton (1)_311
+  - first:
+      213: -1228536188518618091
+    second: windanimaiton (1)_312
+  - first:
+      213: 7867470287942732383
+    second: windanimaiton (1)_313
+  - first:
+      213: -8831131389890358982
+    second: windanimaiton (1)_314
+  - first:
+      213: 9099109759918562383
+    second: windanimaiton (1)_315
+  - first:
+      213: 3504519539262725307
+    second: windanimaiton (1)_316
+  - first:
+      213: -4127249120589111257
+    second: windanimaiton (1)_317
+  - first:
+      213: 5956746263164592392
+    second: windanimaiton (1)_318
+  - first:
+      213: 984514255988403274
+    second: windanimaiton (1)_319
+  - first:
+      213: 1446182847107379425
+    second: windanimaiton (1)_320
+  - first:
+      213: -5455939834720755190
+    second: windanimaiton (1)_321
+  - first:
+      213: 4370226603197597637
+    second: windanimaiton (1)_322
+  - first:
+      213: 2252524187425909343
+    second: windanimaiton (1)_323
+  - first:
+      213: -6668738541291362427
+    second: windanimaiton (1)_324
+  - first:
+      213: 1027429296262143764
+    second: windanimaiton (1)_325
+  - first:
+      213: -778679372184445428
+    second: windanimaiton (1)_326
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windanimaiton (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 480
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13044dc004ecd4c00800000000000000
+      internalID: 886591476150321201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windanimaiton (1)_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 480
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7652027433cddd0800000000000000
+      internalID: -2460034915876116520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windanimaiton (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 480
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c659af4806e55f0800000000000000
+      internalID: -766068762350359453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1adb6c924d1e1e447a8a8d6ca67300cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":640.0,"y":480.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      windanimaiton (1)_0: 886591476150321201
+      windanimaiton (1)_1: -2460034915876116520
+      windanimaiton (1)_2: -766068762350359453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

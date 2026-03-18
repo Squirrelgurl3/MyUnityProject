@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 276a2173a2cf50d489bfcacff123aaf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8316012366055188487
+    second: Speed Limit 25_0
+  - first:
+      213: -227782985646464752
+    second: Speed Limit 25_1
+  - first:
+      213: 5033445254144792532
+    second: Speed Limit 25_2
+  - first:
+      213: -5821881284087892917
+    second: Speed Limit 25_3
+  - first:
+      213: 2455138859611403462
+    second: Speed Limit 25_4
+  - first:
+      213: 418303371372929438
+    second: Speed Limit 25_5
+  - first:
+      213: 5956020294054720069
+    second: Speed Limit 25_6
+  - first:
+      213: 2277318682368626972
+    second: Speed Limit 25_7
+  - first:
+      213: -5338177884916903377
+    second: Speed Limit 25_8
+  - first:
+      213: -5909037548418437645
+    second: Speed Limit 25_9
+  - first:
+      213: -3266743889424410932
+    second: Speed Limit 25_10
+  - first:
+      213: 6898086689107093557
+    second: Speed Limit 25_11
+  - first:
+      213: 7120617702162087643
+    second: Speed Limit 25_12
+  - first:
+      213: 677924784903683186
+    second: Speed Limit 25_13
+  - first:
+      213: 1522829545503739698
+    second: Speed Limit 25_14
+  - first:
+      213: -3279006850869116677
+    second: Speed Limit 25_15
+  - first:
+      213: -8030164109867366395
+    second: Speed Limit 25_16
+  - first:
+      213: 8830436562143591272
+    second: Speed Limit 25_17
+  - first:
+      213: 2488650471164136296
+    second: Speed Limit 25_18
+  - first:
+      213: 5110226481337891170
+    second: Speed Limit 25_19
+  - first:
+      213: -3889219172459823214
+    second: Speed Limit 25_20
+  - first:
+      213: 6110684075412543923
+    second: Speed Limit 25_21
+  - first:
+      213: -3434658796997538101
+    second: Speed Limit 25_22
+  - first:
+      213: 8251533554235326255
+    second: Speed Limit 25_23
+  - first:
+      213: 7199602412708699166
+    second: Speed Limit 25_24
+  - first:
+      213: -7822616022068667610
+    second: Speed Limit 25_25
+  - first:
+      213: -3954375755652785769
+    second: Speed Limit 25_26
+  - first:
+      213: 7655097257524047058
+    second: Speed Limit 25_27
+  - first:
+      213: 7524285969267037658
+    second: Speed Limit 25_28
+  - first:
+      213: 3018217809057989221
+    second: Speed Limit 25_29
+  - first:
+      213: 5550122855424184095
+    second: Speed Limit 25_30
+  - first:
+      213: -7584837880587516524
+    second: Speed Limit 25_31
+  - first:
+      213: -5544142343215244563
+    second: Speed Limit 25_32
+  - first:
+      213: -2616276433947164475
+    second: Speed Limit 25_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speed Limit 25_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7568d20d6979c80800000000000000
+      internalID: -8316012366055188487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speed Limit 25_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 180
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0112aa6d490c6dcf0800000000000000
+      internalID: -227782985646464752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speed Limit 25_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 180
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d71da15ac36ad540800000000000000
+      internalID: 5033445254144792532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speed Limit 25_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 180
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44327951d5843fa0800000000000000
+      internalID: -5821881284087892917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5abdd39e151d0e47a4629d79fb985ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":180.0,"y":240.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Speed Limit 25_0: -8316012366055188487
+      Speed Limit 25_1: -227782985646464752
+      Speed Limit 25_2: 5033445254144792532
+      Speed Limit 25_3: -5821881284087892917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
